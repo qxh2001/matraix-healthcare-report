@@ -6,7 +6,7 @@ An interactive report exploring healthcare-access patterns in responses from **9
 
 ## What to explore
 
-- Reported cost, time, distance, and medical-record access barriers.
+- Reported cost, time, distance, and service-availability barriers.
 - Comparisons by persona cohort, including regional and rural/urban views.
 - The report's persona construction process, questionnaire routing, denominators, and methodology notes.
 
@@ -27,3 +27,4 @@ Download or clone the repository, then open `index.html` in a browser. The HTML 
 This repository publishes the report artifact, not the complete persona-generation pipeline or raw source datasets. Reproducing the underlying simulated responses requires those inputs and a documented generation procedure; opening the HTML reproduces the report presentation only.
 
 For more context on my research and product work, see [Katherine Xu's portfolio](https://katherinexu.me).
+
